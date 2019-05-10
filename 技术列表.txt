@@ -1,0 +1,9 @@
+1.git
+2.java
+3.IDEA
+4.maven
+5.mysql
+6.memcatched/redis/MongoDB
+7.activemq
+8.js/jQuery
+9.nginx
